@@ -1,5 +1,7 @@
 <html> 
+<head>
 <title> HELLO</title>
-<head> NEW PROJECT</head>
+<h1>NEW PROJECT<h1>
+</head>
 <p>HELLO GIT HUB </p>
 </html>
